@@ -7,7 +7,8 @@ body {
 }
 
 body {
-  background: #C9329E url("/img/noise.png");
+ /*background: #C9329E url("/img/noise.png");*/
+  background: linear-gradient(45deg, #1870ed 0, #f18f88 100%);
   padding-top: 40px;
 }
 
